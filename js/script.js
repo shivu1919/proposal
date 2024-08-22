@@ -1,6 +1,6 @@
 function firstyes(){
-    window.location="https://shivu1919.github.io/proposal/firstyes.html"
+    window.location="firstyes.html"
 }
 function firstno(){
-    window.location="https://shivu1919.github.io/proposal/firstno.html";
+    window.location="firstno.html";
 }
